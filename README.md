@@ -1,13 +1,13 @@
-# ADHDgram template
+# Write Life template
 
-This is the basic template for the _ADHDgram_.
+This is the basic template for the _Write Life_ newsletter.
 
 ## Sending the monthly newsletter
-Important steps to remember when sending an _ADHDgram_:
+Important steps to remember when sending _Write Life_:
 1. Update volume information under header image
-2. Update TOC
-3. Update links to hosted version
-4. Update Patron acknowledgements
+2. Update links to hosted version
+3. Copy template html file to month-specific file [YYYY]-[MM]-[3-digit issue #].html
+4. In month-specific file(!), replace <script src="rss-aggregator.js" async></script> with generated list html
 
 ## Adding new sections
 Main body sections are structured as follows, from the outermost container to the innermost:
